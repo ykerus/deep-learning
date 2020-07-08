@@ -1,0 +1,15 @@
+#model_type   : RNN
+#input_length : 9
+#input_dim    : 10
+#num_classes  : 10
+#num_hidden   : 128
+#batch_size   : 128
+#learn_rate   : 0.001
+#train_steps  : 1000
+#max_norm     : 10.0
+#train_step accuracy loss
+0 0.081 2.401
+2 0.820 0.840
+4 0.876 0.600
+6 0.988 0.224
+8 0.996 0.120
