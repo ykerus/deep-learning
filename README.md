@@ -4,4 +4,4 @@ Author: Yke Rusticus
 
 Assignment 1: MLP implementation NumPy and PyTorch; batch normalization; CNN. <br>
 Assignment 2: RNN vs LSTM; generative models; graph neural networks. <br>
-Assignment 3: VAE; GAN; GNF;
+Assignment 3: VAE; GAN; GNF.
